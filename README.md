@@ -1,4 +1,4 @@
-Example of responsive design using Next.js 
+Example of responsive design website using plan HTML / CSS
 <br>
 <br>
 Deployed on Netlify
