@@ -1,6 +1,7 @@
 Example of responsive design website using plan HTML / CSS
 <br>
 <br>
+<hr>
 Deployed on Netlify
 <br>
-https://nostalgic-brahmagupta-8be6c0.netlify.app
+https://responsive-design-html.netlify.app
